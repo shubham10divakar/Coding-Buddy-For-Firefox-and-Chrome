@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Coding Buddy For Firefox",
+  "description": "Your Coding Buddy",
+  "version": "1.0",
+  "icons": {
+    "16": "icon.jpeg",
+    "48": "icon.jpeg"
+  },
+  "browser_action": {
+    "default_icon": "icon.jpeg",
+    "default_popup": "index.html"
+  },
+  "permissions": ["notifications", "alarms", "activeTab", "https://api.rootnet.in/covid19-in/stats/latest",
+  "history",
+	"tabs",
+	"*://*.youtube.com/*"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "content_security_policy":"script-src 'self' https://apis.google.com https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js https://geolocation-db.com/jsonp 'unsafe-eval'; object-src 'self'"
+}
