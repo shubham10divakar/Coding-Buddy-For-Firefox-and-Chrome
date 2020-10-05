@@ -1,6 +1,6 @@
-# Covid-19 India Tracker
+# Coding Buddy
 
-Track Covid-19 cases in India from Chrome extensions
+Coding becomes much easier now
 
 ## Example
 
@@ -8,7 +8,7 @@ Track Covid-19 cases in India from Chrome extensions
 
 ## Data source
 
-The project is using the [CloudFare API](https://github.com/amodm/api-covid19-in).
+
 
 ## Installing
 
