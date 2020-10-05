@@ -11,7 +11,7 @@
     "default_icon": "icon.jpeg",
     "default_popup": "index.html"
   },
-  "permissions": ["notifications", "alarms", "activeTab", "https://api.rootnet.in/covid19-in/stats/latest",
+  "permissions": ["notifications", "alarms", "activeTab",
   "history",
 	"tabs",
 	"*://*.youtube.com/*"],
