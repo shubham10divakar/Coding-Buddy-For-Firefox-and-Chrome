@@ -6,18 +6,20 @@ Coding becomes much easier now
 
 ![text alt](./example.png)
 
-## Data source
+## Features
+1. Access top sites for competing and learning coding from one place.
+2. Control youtube without having to go to the Youtube tab again(After opening youtube once).
+More features comming soon:)
 
 
 
 ## Installing
 
-This extension is currently approved by firefox and also by  Chrome Web Store. Meanwhile, you can install it following the steps below:
+This extension is currently approved by firefox. Meanwhile, you can install it following the steps below:
 
 For firefox:
-https://addons.mozilla.org/addon/covidtracker/
-For chrome:
-https://chrome.google.com/webstore/detail/covid-19-india-tracker/gpgdlcmclgncbefhgfolgpdngopnppfo/related
+
+
 
 For chrome:
 - [Download] our source code
